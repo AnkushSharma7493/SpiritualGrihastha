@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://spiritualgrihastha.pages.dev/sitemap.xml
